@@ -1,5 +1,3 @@
-# Project Name
-HNSCL
 ## Project Structure
 - pretrain.py run domain-specific pretraining 
 - train.py run contrastive learning training and k-means clustering
