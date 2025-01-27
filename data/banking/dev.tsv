@@ -1,0 +1,74 @@
+text	label
+How can I request cash back? The ATM just gave me a different amount than what I've been actually charged though...	wrong_amount_of_cash_received
+I think a fee was applied for paying with a card.	card_payment_fee_charged
+Why did I not get the amount I specified at the ATM?	wrong_amount_of_cash_received
+I see a direct debit payment on my statement that wasn't me	direct_debit_payment_not_recognised
+There's a payment showing in the app today even though I have not used my card at all. I want a refund.	direct_debit_payment_not_recognised
+what is this extra charge with my purchase?	card_payment_fee_charged
+I am still waiting for a the cash I deposited this morning	balance_not_updated_after_cheque_or_cash_deposit
+Why did I get less from the ATM?	wrong_amount_of_cash_received
+How long does a check take to show up in the account balance?	balance_not_updated_after_cheque_or_cash_deposit
+I might have been charged on my debit statement by fraud.	direct_debit_payment_not_recognised
+Why am I still not able to see the money I deposited a week ago? This is urgent!!	balance_not_updated_after_cheque_or_cash_deposit
+I don't think I should have been charged a fee to use my card.	card_payment_fee_charged
+What are the fees imposed when I make a transaction?	card_payment_fee_charged
+I attempted to withdraw some money from an ATM this morning and received the wrong amount. Your app says I have enough money available in the account. Can someone tell me what's wrong?	wrong_amount_of_cash_received
+I put my check in the bank, but I haven't gotten my cash yet?	balance_not_updated_after_cheque_or_cash_deposit
+I have gone through my statements and noticed there is a large payment that I did not make. Can i still dispute the payment? its been a while	direct_debit_payment_not_recognised
+What happened! I asked for 30 pounds at your ATM and only go 10. The machine lied about it too. It said I received the full 30 pounds. Someone better help me asap on this.	wrong_amount_of_cash_received
+I deposited a cheque and its been days and I still haven't received the cash!!	balance_not_updated_after_cheque_or_cash_deposit
+My cheque is taking a while	balance_not_updated_after_cheque_or_cash_deposit
+What is going on with my cash deposit. I'm looking at my account balance and it is not there. It has been almost a week. Someone better get back to me asap.	balance_not_updated_after_cheque_or_cash_deposit
+I deposited cash into my account and I'm having trouble seeing it on my account.	balance_not_updated_after_cheque_or_cash_deposit
+There are multiple instances where you added a fee to the payment, as well as some where you didn't. Do you have an outline of when a fee will be added?	card_payment_fee_charged
+I got less money than I asked for.	wrong_amount_of_cash_received
+I just deposited cash to my account and can't find it!	balance_not_updated_after_cheque_or_cash_deposit
+Why did the ATM give me less money than what I requested?	wrong_amount_of_cash_received
+I saw a fee on my app from one of my payments and I wasn't sure where it came from. Is there a way you can tell me when there's an additional fee for my payments?	card_payment_fee_charged
+There is a direct debit set up that I didn't create.	direct_debit_payment_not_recognised
+I made a purchase but never expected to see a fee charged for the transaction.	card_payment_fee_charged
+I was charged for using my card?	card_payment_fee_charged
+What is this extra fee that I got when I used my card to pay?	card_payment_fee_charged
+I deposited a check a few days ago and it's still not gone in! Please help me with this	balance_not_updated_after_cheque_or_cash_deposit
+I had to pay money for paying with my card.	card_payment_fee_charged
+I have an unknown debit charge in my statement, why?	direct_debit_payment_not_recognised
+i need help. I updated my balance with a check yesterday and Im not seeing it. Can you look at my account to see what went wrong?	balance_not_updated_after_cheque_or_cash_deposit
+How can I dispute a direct debit transaction?	direct_debit_payment_not_recognised
+Waiting for the cash I deposited this morning still	balance_not_updated_after_cheque_or_cash_deposit
+Can I dispute a debit payment that I am seeing that I didn't make from a couple of months ago?	direct_debit_payment_not_recognised
+There is a strange charge on my debit statement	direct_debit_payment_not_recognised
+The atm didn'y give me all the cash	wrong_amount_of_cash_received
+I did not receive my full withdrawal amount	wrong_amount_of_cash_received
+There is a direct debit that I didn't set up, what should I do?	direct_debit_payment_not_recognised
+I received incorrect amount of cash from an ATM today. It was more than I wanted. What do I do now?	wrong_amount_of_cash_received
+Can you explain why I was charged extra when I used the card?	card_payment_fee_charged
+I asked for cash but I did not receive all the funds	wrong_amount_of_cash_received
+Where did the money I deposit go??	balance_not_updated_after_cheque_or_cash_deposit
+what is the matter?	direct_debit_payment_not_recognised
+Is it normal to get charged extra when i use my card?	card_payment_fee_charged
+Hi, i was checking my old statements and found a discrepancy with a large amount transaction. I am sure it was not done by me. Please let me know if i could raise a dispute as its very late.	direct_debit_payment_not_recognised
+I was charged a fee for using my card. Can I check that in any way? It seems like there are occasions that I am charge for fees. Can you elaborate this?	card_payment_fee_charged
+Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances.	card_payment_fee_charged
+I did not ask for the amount of cash that I received.	wrong_amount_of_cash_received
+I need my account checked because it appears there is a problem. I attempted to update my balance yesterday using cheque but it doesn't seem to have worked.  Should this not be faster than this?	balance_not_updated_after_cheque_or_cash_deposit
+I am still awaiting the money I put into my account this morning.	balance_not_updated_after_cheque_or_cash_deposit
+I got some cash at an ATM earlier, but now app is showing that I withdrew more than I did.  Help!	wrong_amount_of_cash_received
+Can you tell me why a cheque deposit isn't showing in my balance?	balance_not_updated_after_cheque_or_cash_deposit
+The amount of cash I selected to withdraw is different than what I received.	wrong_amount_of_cash_received
+The ATM didn't give me the amount I asked for	wrong_amount_of_cash_received
+Where is the cash I deposited?	balance_not_updated_after_cheque_or_cash_deposit
+I don't understand why I was charged an additional fee for this service. Can you clarify?	card_payment_fee_charged
+There is a payment showing that I know I didn't make. I didn't use my card that day and I'm sure of it. Can you please cancel that transaction and return my money? Thankyou	direct_debit_payment_not_recognised
+Let me know when applying extra charges for payments. I just checked the app and saw a fee that I wasn't warned about.	card_payment_fee_charged
+Please explain the extra fee when I paid with the card.	card_payment_fee_charged
+I requested $100 but only got $20	wrong_amount_of_cash_received
+I was only given $20 when I tried to get $100	wrong_amount_of_cash_received
+There was an extra fee when I paid with my card, why was i charged this extra fee?	card_payment_fee_charged
+I was checking the app for my account and I noticed there is an authorized charge on it.  I haven't used my card today, so I know I didn't do it.  I would like the transaction reversed and the money replaced.	direct_debit_payment_not_recognised
+There is a direct debit transaction that I did not authorize	direct_debit_payment_not_recognised
+I'm checking my statements and I saw a purchase from a couple weeks ago that I don't recall at all. Not only that, but I don't even know the business that charged it. I'm not sure if I did it or not, but can we check it and see if we can trace it back to make certain?	direct_debit_payment_not_recognised
+Why did the cash deposit not show up in my account?	balance_not_updated_after_cheque_or_cash_deposit
+I think I was charged by mistake on my debit statement.	direct_debit_payment_not_recognised
+I am seeing in the App a diret debit that its not mine	direct_debit_payment_not_recognised
+I paid with card and I was charged a fee	card_payment_fee_charged
+I wanted to take out $100 but I only got $20.	wrong_amount_of_cash_received
