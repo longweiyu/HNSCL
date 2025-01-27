@@ -13,7 +13,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 nlp = spacy.load("en_core_web_sm")
 
 # API configuration
-API_KEY = "sk-35056987bad94563a2bb3171f79f7982"
+API_KEY = ""
 
 def extract_frequent_nouns(utterances, top_n=5):
     """Extract the most frequent nouns from a list of utterances using spaCy"""
